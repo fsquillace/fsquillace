@@ -28,9 +28,12 @@ PS: Adding stars to the projects will also help!
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fsquillace&show_icons=true&locale=en" alt="fsquillace" />
-  &nbsp;
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fsquillace&show_icons=true&locale=en&layout=compact" alt="fsquillace" />
-
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fsquillace&" alt="fsquillace" /></p>
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fsquillace&show_icons=true&locale=en&layout=compact" alt="fsquillace" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fsquillace&" alt="fsquillace" />
+</p>
